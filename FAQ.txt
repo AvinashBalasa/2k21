@@ -1,0 +1,33 @@
+change immutable variables
+static vs volatile
+join yield
+synchronize and how it effects memory
+why string constant pool
+maadm palindrome efficiently?
+why views?
+how indexes work?
+can we have table without primary key? yes
+normalization
+adv of rest
+hibernate over jdbc why?
+hibernate setup and diff btw sessionfactory and sessionfactory
+save vs update in hibernate
+spring security and authenticate and validate the tokens?
+on submit how the request will flow into app?
+what are the types of locks
+
+Hibernate how do you call sp
+spring boot configuration for test, prod etc env
+design patterns singleton factory
+jenkins workflow for deploy flags
+self join in hibernate
+can we prevent override without using final
+immutable class
+
+How to handle a Tx across services?
+service discovery client vs server?
+circuit breaker pattern
+saga pattern
+event streams using kafka usage
+
+
